@@ -1,5 +1,4 @@
-Data format
-===========
+## Data format
 
 NetCDF version 4.
 
