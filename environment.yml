@@ -1,0 +1,10 @@
+name: cci
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7.4=h265db76_1
+  - pip
+  - pip:
+    - sphinx
+    - sphinx-rtd-theme
+
