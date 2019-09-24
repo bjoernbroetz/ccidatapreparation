@@ -3,13 +3,19 @@ Welcome to CCIDataPreparation's documentation!
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+   :caption: Preparation:
 
    about
    ods_compliance/index
-   ods_compliance/technical/index
    publication/index
 
+.. toctree::
+   :maxdepth: 3
+   :caption: External Resources:
+
+   resources/software.rst
+   resources/services.rst
+   resources/external_docs.rst
 
 Indices and tables
 ==================

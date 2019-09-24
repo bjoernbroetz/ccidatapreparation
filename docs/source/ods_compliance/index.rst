@@ -16,7 +16,7 @@ General requirements
    general/usefullness_for_model_evaluation
 
 Technical requirements
-====================
+======================
 
 .. toctree::
    :maxdepth: 2
@@ -25,4 +25,3 @@ Technical requirements
    technical/grid
    technical/metadata
    technical/version
-   technical/index
