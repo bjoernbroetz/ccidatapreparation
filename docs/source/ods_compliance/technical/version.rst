@@ -1,5 +1,5 @@
 Version control
-==============
+===============
 
 There needs to be a version number to track changes in the data. 
 
