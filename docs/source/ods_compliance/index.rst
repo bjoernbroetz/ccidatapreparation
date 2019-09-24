@@ -10,10 +10,10 @@ General requirements
 .. toctree::
    :maxdepth: 2
 
+   general/usefullness_for_model_evaluation
    general/cimp6_variable
    general/peer_review_dataset
    general/technical_note
-   general/usefullness_for_model_evaluation
 
 Technical requirements
 ======================
