@@ -18,5 +18,4 @@ The important thing to note at this point is that there are four player involved
 
 Fortunately, a number of existing resources such as software, online services and documentation are available to further assist the data providing scientists in this process. Those external resources are linked in the documentation and referred to whenever they might be useful in the preparation process. 
 
-This documentation will be updated regulary during the ESA-CCI+ CMUG project and mature during the process of supporting the data providing scientists.  
-
+This documentation will be updated regulary during the ESA-CCI+ CMUG project and mature during the process of supporting the data providing scientists. Any feedback to this documentation is welcome as a GitHub issue at the source repository **$GITHUBURL**.
