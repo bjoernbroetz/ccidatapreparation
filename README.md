@@ -9,10 +9,10 @@ This repository contains the documentation on how to prepare observational data 
 
 Create and activate the conda environment `cci` with the following command:
 
-´´´
+```
 conda env create -f environment.yml
 conda activate cci
-´´´
+```
 
 Build/rebuild the html pages with 
 
