@@ -1,5 +1,5 @@
-Welcome to CCIDataPreparation's documentation!
-==============================================
+CCI Data Preparation
+====================
 
 .. toctree::
    :maxdepth: 3
