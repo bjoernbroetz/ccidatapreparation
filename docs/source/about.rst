@@ -2,7 +2,7 @@
 About
 =====
 
-This documentation was created within the ESA-CCI+ CMUG project to support scientist that want to contribute their observational data to obs4MIPs. Obs4MIPs is a successful endeavor to facilitate the process of Earth system model evaluation by offering a set of relevant observations in a standardized form. Along with the data itself metadata and documentation needed to scientifically interpret and use the data is provided as well.
+This documentation was created within the ESA-CCI+ CMUG project to support scientist of this project in the process to prepare their observational data to obs4MIPs. Obs4MIPs is a successful endeavor to facilitate the process of Earth system model evaluation by offering a set of relevant observations in a standardized form. Along with the data itself metadata and documentation needed to scientifically interpret and use the data is provided as well.
 
 In the following diagram the overall process of data preparation is described. 
 

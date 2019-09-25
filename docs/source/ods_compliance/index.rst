@@ -2,7 +2,7 @@
 ODS compliance 
 **************
 
-The central reference for the obs4MIPs data preparation is the ods (obs4MIPS data description document) in its current version. This document can be found *here*.
+The central reference for the obs4MIPs data preparation is the *obs4MIPs data specifications* (ODS) version v2.1. This document can be found on the `obs4MIPs website <https://esgf-node.llnl.gov/projects/obs4mips/DataSpecifications>`_.
 
 General requirements
 ====================
@@ -10,10 +10,10 @@ General requirements
 .. toctree::
    :maxdepth: 2
 
-   general/usefullness_for_model_evaluation
-   general/cimp6_variable
    general/peer_review_dataset
+   general/cimp6_variable
    general/technical_note
+   general/register
 
 Technical requirements
 ======================
