@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/ccidatapreparation/badge/?version=latest)](https://ccidatapreparation.readthedocs.io/en/latest/?badge=latest)
+
 CCIDataPreparation
 ------------------
 
