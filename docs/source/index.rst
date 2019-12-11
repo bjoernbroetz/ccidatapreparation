@@ -1,5 +1,5 @@
-CCI Data Preparation
-====================
+Preparation of ESA/CCI data for obs4MIPs
+========================================
 
 .. toctree::
    :maxdepth: 3
