@@ -17,6 +17,12 @@ Preparation of ESA/CCI data for obs4MIPs
    resources/services.rst
    resources/external_docs.rst
 
+.. toctree::
+   :maxdepth: 3
+   :caption: Contact:
+
+   contact
+
 Indices and tables
 ==================
 
