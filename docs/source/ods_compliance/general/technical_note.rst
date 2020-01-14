@@ -6,4 +6,4 @@ The data provider must provide a technical note accompanying the proposed datase
 
 Technical notes will be hosted on the ESGF so that they appear along side the datasets to which they pertain. 
 
-Furthermore, it is expected that the technical note has a DOI. Details on this can be found in the section :ref:`DOI for the technical note`.
+Furthermore, the data provider can assign a DOI to the technical note and reference it from the metadata of the netCDF files of the data set. Details on this can be found in the section :ref:`DOI for the technical note`.
