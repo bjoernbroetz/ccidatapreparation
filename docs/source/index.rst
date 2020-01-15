@@ -14,7 +14,6 @@ Preparation of ESA/CCI data for obs4MIPs
    :caption: External Resources:
 
    resources/software.rst
-   resources/services.rst
    resources/external_docs.rst
 
 .. toctree::

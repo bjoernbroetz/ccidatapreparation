@@ -14,17 +14,10 @@ Finally the CMUG support submits all material, which consists of
 
 to the ESGF node provider.  
 
-DOI for the technical note
---------------------------
+DOIs for the data set and the technical note
+--------------------------------------------
 
-The data provider can assign a DOI to the technical note and reference it in the metadata of the netCDF files of the data set. This can be easily achived by taking advantage of one of the several scientific online services like `zenodo <https://zenodo.org/>`_, or `figshare <https://figshare.com/>`_ that offers long term archiving for documents and data with an DOI service attached.
-
-Alternatively the ESGF node provider *contact page* can assign a DOI for the technical note as well using its own infrastructure.
-
-DOIs for the data set
----------------------
-
-For the netCDF files of the data set the ESGF node provider will assign a DOI and take care of the long term storage a DOI assignment implies. 
+For the netCDF files of the data set and the technical note the ESGF node provider will assign a DOI and take care of the long term storage a DOI assignment implies. 
 
 Publication on the ESGF
 -----------------------
