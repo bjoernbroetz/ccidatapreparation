@@ -6,7 +6,7 @@ Once all requirements are fulfilled the data provider can send all material to t
 Submission
 ----------
 
-Finally the data provider submits all material, which consists of  
+Finally the CMUG support submits all material, which consists of  
 
  + the netCDF data files containing the new Obs4MIPs data set and metadata
  + the technical note
