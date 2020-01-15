@@ -2,6 +2,8 @@
 Supporting Software
 ===================
 
+If the data provider requires assistance installing and using third party software to prepare the data set the CMUG support will be available. 
+
 CMOR
 ----
 
