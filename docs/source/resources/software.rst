@@ -7,7 +7,7 @@ If the data provider requires assistance installing and using third party softwa
 CMOR
 ----
 
-Well maintained software library with interfaces to python, C and Fortran. This software is recommended by the obs4MIPs task team to prepare the proposed dataset for submission.
+Well maintained software library with interfaces to python, C and Fortran. This software is recommended by the :ref:`obs4MIPs Task Team<general_contact>` to prepare the proposed dataset for submission.
 
 Details and examples at: *climate model output rewriter* (`CMOR <https://cmor.llnl.gov>`_) 
 

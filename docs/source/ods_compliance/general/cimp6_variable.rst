@@ -8,6 +8,6 @@ Any new observational dataset for obs4MIPs shall have a matching variable defini
 
 In the case that there is no matching CMIP6 variable for the proposed dataset or doubt about it, please contact the :ref:`CMUG support<general_contact>`. Such data can be considered for obs4MIPs but require the additional steps:
 
- - Liaison with the *obs4MIPs task team*
+ - Liaison with the :ref:`obs4MIPs Task Team<general_contact>`
  - Registration of the variable at the obs4MIPs-cmor-tables `GitHub repository <https://github.com/PCMDI/obs4MIPs-cmor-tables>`_
  - Using the new `indicator <https://esgf-node.llnl.gov/projects/obs4mips/DatasetIndicators>`_ "Complexity of model observation comparison"
