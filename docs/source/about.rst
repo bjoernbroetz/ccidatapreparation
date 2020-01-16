@@ -7,7 +7,7 @@ This documentation was created within the ESA-CCI+ CMUG project to support scien
 Target Audience 
 ===============
 
-This documentation will assist CCI scientists that wish to prepare their datasets for Obs4MIPs themselves. During the project time of the ESA-CCI+ CMUG project CCI teams also have the possibility to handover their ECV products on the temporal and spatial resolution required by Obs4MIPs to the CMUG support that will take responsibility to finalize the preparation/submission process.
+This documentation will assist CCI scientists that wish to prepare their datasets for Obs4MIPs themselves. During the project time of the ESA-CCI+ CMUG project CCI teams also have the possibility to handover their ECV products on the temporal and spatial resolution required by Obs4MIPs to the :ref:`CMUG support<general_contact>` that will take responsibility to finalize the preparation/submission process.
 
 Process
 =======

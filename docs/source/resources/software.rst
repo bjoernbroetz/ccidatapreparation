@@ -2,7 +2,7 @@
 Supporting Software
 ===================
 
-If the data provider requires assistance installing and using third party software to prepare the data set the CMUG support will be available. 
+If the data provider requires assistance installing and using third party software to prepare the data set the :ref:`CMUG support<general_contact>` will be available. 
 
 CMOR
 ----
