@@ -12,15 +12,15 @@ Finally the :ref:`CMUG support<general_contact>` submits all material, which con
  + the technical note
  + supplement material
 
-to the ESGF node provider.  
+to the :ref:`ESGF node provider<general_contact>`.  
 
 DOIs for the data set and the technical note
 --------------------------------------------
 
-For the netCDF files of the data set and the technical note the ESGF node provider will assign a DOI and take care of the long term storage a DOI assignment implies. 
+For the netCDF files of the data set and the technical note the :ref:`ESGF node provider<general_contact>` will assign a DOI and take care of the long term storage a DOI assignment implies. 
 
 Publication on the ESGF
 -----------------------
 
-The ESGF node provider will follow its internal procedures to publish the material at the ESGF and will notify the data provider, the :ref:`CMUG support<general_contact>` and :ref:`obs4MIPs Task Team<general_contact>` once the data is online.
+The :ref:`ESGF node provider<general_contact>` will follow its internal procedures to publish the material at the ESGF and will notify the data provider, the :ref:`CMUG support<general_contact>` and :ref:`obs4MIPs Task Team<general_contact>` once the data is online.
 
