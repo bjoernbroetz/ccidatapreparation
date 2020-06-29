@@ -13,12 +13,12 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-
+import datetime as dt
 
 # -- Project information -----------------------------------------------------
 
 project = 'CCIDataPreparation'
-copyright = '2019, Climate Modelling User Group'
+copyright = f"2019-{dt.datetime.now().strftime('%Y')}, Climate Modelling User Group"
 author = 'Climate Modelling User Group'
 
 
